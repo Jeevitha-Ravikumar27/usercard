@@ -10,8 +10,7 @@ Currently, two official plugins are available:
 Created a basic React project :
 1. User card
    that shows online or offline of a person's status
+   https://usercard-beta.vercel.app/
 
-2.QR code Generator:
-   that generates the QR code for the given link with given size
-   https://reactprojbasic.vercel.app/
+
    
